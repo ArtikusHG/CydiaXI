@@ -1,0 +1,9 @@
+Package: com.artikus.cydiaxi
+Name: CydiaXI
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Make Cydia feel more iOS 11-ish.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
